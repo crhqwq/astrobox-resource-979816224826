@@ -1,0 +1,28 @@
+{
+  "item": {
+    "id": "979816224826",
+    "restype": "watchface",
+    "name": "测试",
+    "description": "测试用的",
+    "preview": [
+      "media/btn_bg.png"
+    ],
+    "icon": "media/捕获.PNG",
+    "cover": "media/捕获.PNG",
+    "author": [
+      {
+        "name": "icechen",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/苹果-V2-202610251038.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {}
+}
